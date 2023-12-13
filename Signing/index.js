@@ -11,3 +11,5 @@ export const Index = () => {
         <button className="button button-feed">Feed</button>
       </div>
     </div>
+   );
+};
