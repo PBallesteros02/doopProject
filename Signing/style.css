@@ -10,6 +10,7 @@
 .inner-container {
   width: 1178px;
   height: 816px;
+  border: 1px solid black;
 }
 
 /* Styling for the Welcome text */
