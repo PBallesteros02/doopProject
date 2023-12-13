@@ -1,0 +1,56 @@
+/* Basic styling for the outer container */
+.container {
+  width: 1728px;
+  height: 1117px;
+  position: relative;
+  background: #F8AF4C;
+}
+
+/* Styling for the inner container */
+.inner-container {
+  width: 1178px;
+  height: 816px;
+}
+
+/* Styling for the Welcome text */
+.welcome-text {
+  left: 102px;
+  top: 41px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 70px;
+  font-family: 'Playfair Display';
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* Styling for the buttons */
+.button {
+  width: 221px;
+  height: 67px;
+  position: absolute;
+  background: black;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  font-size: 40px;
+  font-family: 'Playfair Display';
+  font-weight: 600;
+}
+
+/* Individual positioning for buttons */
+.button-logout {
+  left: 478px;
+  top: 426px;
+}
+
+.button-create-post {
+  left: 819px;
+  top: 426px;
+}
+
+.button-feed {
+  left: 137px;
+  top: 426px;
+}
