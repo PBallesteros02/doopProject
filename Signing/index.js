@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-export const Index = () => {
+export const Index = ({ username }) => {
   return (
     <div className="container">
       <div className="inner-container">
